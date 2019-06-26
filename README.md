@@ -16,6 +16,8 @@ MedAssist: This final project is aimed to provide a platform for accessing medic
 使用/操作方式  
 npm install 安裝需要的dependencies  
 npm start 開啟前端及後端伺服器(任何ip位址皆可連至mongodb)
+med7991_Final部分：進入med7991_Final, npm install 安裝需要的dependencies, 
+npm start開啟前端部分, 此為網站框架, 預計將MedAssist notes整合在一起
 
 其他說明
 本網站預期架設出前後端應用，然而在串連React與後端資料庫部分仍有不懂的地方，只能先將前後端分別做出來，以待未來整合，希望可以做出React router，Mongodb，GraphQL都能整合進來的full-stack web，希望未來能真正deploy給需要的醫師/醫學生使用。

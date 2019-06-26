@@ -9,6 +9,7 @@ export default class Notes extends Component {
                 <p>
                    MedAssist Notes here.
                 </p>
+                <img src="https://github.com/Howard790606/MedAssist_Final_Project/blob/master/pic3.png"></img>
             </div>
         );
     }
