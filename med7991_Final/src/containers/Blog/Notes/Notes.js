@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { NavLink } from "react-router-dom";
+import imgSrc from "./pic3.png";
 
 export default class Notes extends Component {
     render() {
@@ -9,7 +10,7 @@ export default class Notes extends Component {
                 <p>
                    MedAssist Notes here.
                 </p>
-                <img src="https://github.com/Howard790606/MedAssist_Final_Project/blob/master/pic3.png"></img>
+                <img src={imgSrc} style={{width:800}}/>
             </div>
         );
     }
