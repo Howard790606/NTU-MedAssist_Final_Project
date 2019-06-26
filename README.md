@@ -39,5 +39,8 @@ Ric's chatbox template
 對於此課程的建議
 在這門課裡從零開始學到成為一個入門的full-stack web programmer，覺得收穫非常非常多，對自己的能力也獲得多一點的信心，課程中在後段後端的課程中，覺得自己仍然有許多不懂不熟練的地方，希望未來能把它學好，然後做出連結前後端、具有設計感的一個更好的網站。
 
-影片連結
+Demo影片連結
 https://www.youtube.com/watch?v=MOHpt2tw7uw&feature=youtu.be
+
+Github repo
+https://github.com/Howard790606
