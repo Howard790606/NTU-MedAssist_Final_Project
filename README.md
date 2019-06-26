@@ -8,7 +8,7 @@ MedAssist: This final project is aimed to provide a platform for accessing medic
 
 ![image](https://raw.githubusercontent.com/Howard790606/MedAssist/master/pic1.png)
 
-![image](https://github.com/Howard790606/MedAssist_Final_Project/blob/master/pic2.png)
+![image](https://github.com/Howard790606/MedAssist_Final_Project/blob/master/pic3.png)
 
 部署連結
 已申請GoDaddy，尚未部署成功
