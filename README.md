@@ -1,4 +1,4 @@
-[107-2] Web Programming Final
+[107-2] Web Programming Final Project
 # MedAssist
 Group 13 # MedAssist
 
