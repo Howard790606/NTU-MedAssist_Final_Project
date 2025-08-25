@@ -1,6 +1,5 @@
 [107-2] Web Programming Final Project
 # MedAssist
-Group 13 # MedAssist
 
 一句話描述：這是一個提供醫學新知、醫學公式、臨床筆記給醫師/醫學生使用的網站。
 
@@ -9,9 +8,6 @@ MedAssist: This final project is aimed to provide a platform for accessing medic
 ![image](https://raw.githubusercontent.com/Howard790606/MedAssist/master/pic1.png)
 
 ![image](https://github.com/Howard790606/MedAssist_Final_Project/blob/master/pic3.png)
-
-部署連結
-已申請GoDaddy，尚未部署成功
 
 使用/操作方式  
 npm install 安裝需要的dependencies  
